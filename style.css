@@ -21,3 +21,16 @@ img{
     margin-left: 500px;
     border: 10p solid rgb(255, 255, 198);
 }
+.imag_cabecalho{
+height: 60px;
+width: 60px;
+transition: 0.3s;
+}
+.imag_cabecalho: houver{
+    opacity: 0.8;
+}
+header{
+display: flex;
+background-color: aliceblue;
+padding: 10px;
+}
